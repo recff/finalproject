@@ -33,6 +33,4 @@ This program allows you to retrieve various information about Pokémon using the
 2. Install the required dependencies: `pip install requests`
 3. Run the program: `python main.py`
 
-## License
 
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
